@@ -1,4 +1,4 @@
-How to Run
+**How to Run**
 
 To reproduce the results of this project, follow the steps below:
 
@@ -9,16 +9,21 @@ git clone https://github.com/nadeemalisyed/heart-disease-prediction-ml.git
 
 Navigate to the project directory
 
-cd heart-disease-prediction-ml
+**cd heart-disease-prediction-ml**
 
 Install the required dependencies
 Ensure Python is installed, then install the necessary libraries:
 
-pip install pandas numpy scikit-learn matplotlib seaborn xgboost
+**pip install pandas numpy scikit-learn matplotlib seaborn xgboost**
+
 Open the notebook
+
 Launch Jupyter Notebook or Jupyter Lab and open the main .ipynb file.
-Run the project
-Execute all cells in sequence to perform:
+
+**Run the project**
+
+**Execute all cells in sequence to perform:**
+
 Data loading and preprocessing
 Exploratory data analysis
 Model training and evaluation
