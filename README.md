@@ -30,29 +30,34 @@ Download the project source files to your local workspace:
 ```bash
 git clone [https://github.com/nadeemalisyed/heart-disease-prediction-ml.git](https://github.com/nadeemalisyed/heart-disease-prediction-ml.git)
 cd heart-disease-prediction-ml
+```
 
 
 ## 2. Set Up Your Environment
 ```bash
 python -m venv venv
+```
 
 ## 3. Activate Virtual Environment
 ###For Windows:
 ```bash
 venv\Scripts\activate
-
+```
 ###For macOS / Linux:
 ```bash
 source venv/bin/activate
+```
 
 ## 3. Install Required Dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn
+```
 
 #🖥️ How to Run the Project
 ##Launch Jupyter: Open your notebook environment inside your project directory:
 ```bash
 jupyter notebook
+```
 
 ###Open the Notebook: Navigate to and click on heartDiseasePredictor_enhanced.ipynb.Execute the Code: Select Cell $\rightarrow$ Run All from the top menu to run the entire end-to-end pipeline sequentially.
 ##🌐 Author: Nadeem Ali Syed
