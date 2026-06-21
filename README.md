@@ -53,12 +53,12 @@ source venv/bin/activate
 pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn
 ```
 
-#🖥️ How to Run the Project
-##Launch Jupyter: Open your notebook environment inside your project directory:
+# 🖥️ How to Run the Project
+## Launch Jupyter: Open your notebook environment inside your project directory:
 ```bash
 jupyter notebook
 ```
 
-###Open the Notebook: Navigate to and click on heartDiseasePredictor_enhanced.ipynb.Execute the Code: Select Cell $\rightarrow$ Run All from the top menu to run the entire end-to-end pipeline sequentially.
-##🌐 Author: Nadeem Ali Syed
-##🎓 Project Scope: Academic Machine Learning Research and Model Evaluation Workflow.
+### Open the Notebook: Navigate to and click on heartDiseasePredictor_enhanced.ipynb.Execute the Code: Select Cell $\rightarrow$ Run All from the top menu to run the entire end-to-end pipeline sequentially.
+## 🌐 Author: Nadeem Ali Syed
+## 🎓 Project Scope: Academic Machine Learning Research and Model Evaluation Workflow.
